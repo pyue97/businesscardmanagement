@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business Card Management</string>
+    <string name="new_business_card_label">New Business Card</string>
+    <string name="first_name_label">First name:</string>
+    <string name="last_name_label">Last name:</string>
+    <string name="contact_no_label">Contact number:</string>
+    <string name="email_label">Email:</string>
+    <string name="job_title_label">Job title:</string>
+    <string name="company_name_label">Company name:</string>
+    <string name="company_address_label">Company address:</string>
+    <string name="company_url_label">Company URL:</string>
+    <string name="save_button">Save</string>
+    <string name="view_button">View Business Cards</string>
+    <string name="add_button">Add New Business Card</string>
+    <string name="contact_info_label">Contact information</string>
+    <string name="company_info_label">Company information</string>
+</resources>
